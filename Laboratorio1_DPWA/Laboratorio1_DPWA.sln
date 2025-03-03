@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio1_DPWA", "Laboratorio1_DPWA\Laboratorio1_DPWA.csproj", "{90731F2F-605E-4669-BD5D-3806550FC14F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90731F2F-605E-4669-BD5D-3806550FC14F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90731F2F-605E-4669-BD5D-3806550FC14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90731F2F-605E-4669-BD5D-3806550FC14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90731F2F-605E-4669-BD5D-3806550FC14F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C26B57B1-B59D-41C7-88C0-9F0C030365F3}
+	EndGlobalSection
+EndGlobal
